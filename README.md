@@ -61,9 +61,15 @@ Each record includes 21 features like FHR baseline, accelerations, uterine contr
    Plot the results to identify optimal number of PCA components.
 
 ---
+##📌 Folder Structure
+fetal-health-classification/
+│
+├── fetal_health_classification.py  # Main script
+├── fetal_health.csv                # Dataset file
+├── README.md
+└── requirements.txt                # Python dependencies
 
-## 📌 How to Run
-
+---
 ### 🔧 Installation
 
 1. Clone the repository:
